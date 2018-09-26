@@ -1,0 +1,29 @@
+#allcards{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#card1,#card2,#card3,#card4,#card5{
+    border: solid lightblue 1px;
+    padding: 5px;
+}
+
+
+.availability{
+    background-color: darkgrey;
+    color: yellow;
+    width:max;
+}
+
+#specifications{
+    font-weight: bold;
+}
+
+#pricing{
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+    border:solid lightblue 1px;
+}
